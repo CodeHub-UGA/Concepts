@@ -21,7 +21,7 @@ Prerequisites: All you need is a Mac running [Xcode](https://apps.apple.com/us/a
 
 ## Websites
 [https://www.hackingwithswift.com/](https://www.hackingwithswift.com/)</br>
-Hacking With Swift has code examples, guides, projects and explanations on just about every feature of iOS Development. This is a great resource for beginners and experts alike.</br></br>
+Hacking With Swift has code examples, guides, projects and explanations on just about every feature of iOS Development. This is a great resource for beginners and experts alike.</br>
 
 [https://raywenderlich.com](https://raywenderlich.com/ios/) </br>
 This site has a mixture of free and paid tutorials and project guides. Whenever you're Googling how to do something chances are you’ll find yourself on this site with a tutorial.</br>
