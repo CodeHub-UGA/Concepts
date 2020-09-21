@@ -11,11 +11,11 @@ UGA Courses: [CSCI 4300](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=13776)
 
 ## Compare Front-End Frameworks/Libraries
 Popularity:</br>
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](Applications/Web Development/frontend google trends.png "image_tooltip")
 
 
 [http://trends.google.com](http://trends.google.com) </br>
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](Applications/Web Development/frontend stack overflow survey.png "image_tooltip")
 [https://insights.stackoverflow.com/survey/2020#technology-web-frameworks](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks) </br></br>
 
 ## Developer Communities:
