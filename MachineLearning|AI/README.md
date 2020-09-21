@@ -1,6 +1,6 @@
 # Machine Learning/Artificial Intelligence
 
-## Artificial Intelligence, Machine Learning, and Deep Learning
+## About Artificial Intelligence, Machine Learning, and Deep Learning
 
 These three terms are often thrown around together, and sometimes it may be hard to differintiate between them. Here is an easy way to think about the relationship between these:
 
@@ -9,11 +9,11 @@ These three terms are often thrown around together, and sometimes it may be hard
 * *Deep Learning* is a subset of machine learning which focuses specifically on deep neural networks.<br /><br />
 
 <img src="https://1.cms.s81c.com/sites/default/files/2020-06-03/AI_ML_DL.png"></br>
-[ - IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) </br></br>
+[ - Learn More](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) </br></br>
 
 
 
-## Additional Resourcesu
+## Additional Resources
 Double Dawgs Program: [UGA Computer Science BS/Artificial Intelligence MS](http://doubledawgs.uga.edu/ProgramDetails/10080) <br />
 UGA Clubs: [Deep Learning @ UGA](https://delug.github.io/)<br />
 
