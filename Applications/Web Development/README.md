@@ -1,0 +1,40 @@
+# Web development
+
+## About
+Web development involves creating web sites for the Internet. This comes in many forms such as a single static page of plain text to complex web-applications, electronic businesses, and social networking services. HTML and CSS makeup the building blocks of all websites, and are the first time any web developer should learn. Afterwards the world _(wide web) _is your oyster. Frameworks and libraries help you write shorter, cleaner code to get your next website online faster.</br></br>
+
+
+## Additional Resources
+Unofficial Documentation of the Internet: [https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn) </br>
+UGA Professors: [Michael Cotterell](https://cs.uga.edu/directory/people/michael-e-cotterell), [Krys J. Kochut](http://cobweb.cs.uga.edu/~kochut/), [Emuel Aldridge](https://grady.uga.edu/faculty/emuel-aldridge/) </br>
+UGA Courses: [CSCI 4300](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=13776) </br></br>
+
+## Compare Front-End Frameworks/Libraries
+Popularity:</br>
+![alt_text](images/image1.png "image_tooltip")
+
+
+[http://trends.google.com](http://trends.google.com) </br>
+![alt_text](images/image2.png "image_tooltip")
+[https://insights.stackoverflow.com/survey/2020#technology-web-frameworks](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks) </br></br>
+
+## Developer Communities:
+Reddit: [React](https://www.reddit.com/r/reactjs/), [Angular](https://www.reddit.com/r/Angular2/), [Vue](https://www.reddit.com/r/vuejs/)</br>
+Stack Overflow: [React](https://stackoverflow.com/questions/tagged/reactjs), [Angular](https://stackoverflow.com/questions/tagged/angular), [Vue](https://stackoverflow.com/questions/tagged/vuejs)</br>
+What's the difference? [React vs Angular vs Vue](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/) </br>
+Pros and Cons of each: [Which To Choose](https://medium.com/techmagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d) </br></br>
+
+## Back-Ends
+_TBD_</br></br>
+
+
+## Full-Stack
+If you're just starting, don't worry about what stack is best; choose one with technology you have the most experience with or interest in learning.
+With that said here are some of the [Best Stacks for Web Development](https://medium.com/@systango/best-stacks-for-web-development-991f91b7f99c) </br>
+MERN = MongoDB, Express, React, Node</br>
+MEAN = MongoDB, Express, Angular, Node</br>
+FERN = Google Firebase, Express, React, Node</br>
+LAMP = Linux, Apache, MySQL, PHP</br>
+LAPP = Linux, Apache, PostgreSQL, PHP</br>
+Django stack: JavaScript, Python, Django, MySQL</br>
+Ruby on Rails: JavaScript, Ruby, SQLite, Rails</br>
