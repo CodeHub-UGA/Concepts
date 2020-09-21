@@ -10,13 +10,12 @@ UGA Professors: [Michael Cotterell](https://cs.uga.edu/directory/people/michael-
 UGA Courses: [CSCI 4300](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=13776) </br></br>
 
 ## Compare Front-End Frameworks/Libraries
-Popularity:</br>
-![alt_text](Applications/Web Development/frontend google trends.png "image_tooltip")
+Popularity:</br></br>
+<img src="https://github.com/CodeHub-UGA/Concepts/blob/main/Applications/Web%20Development/frontend%20google%20trends.png?raw=true"></br>
+[ - Google Trends](http://trends.google.com) </br></br>
 
-
-[http://trends.google.com](http://trends.google.com) </br>
-![alt_text](Applications/Web Development/frontend stack overflow survey.png "image_tooltip")
-[https://insights.stackoverflow.com/survey/2020#technology-web-frameworks](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks) </br></br>
+<img src="https://github.com/CodeHub-UGA/Concepts/blob/main/Applications/Web%20Development/frontend%20stack%20overflow%20survey.png?raw=true"></br>
+[ - Stack Overflow Survey Results](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks) </br></br>
 
 ## Developer Communities:
 Reddit: [React](https://www.reddit.com/r/reactjs/), [Angular](https://www.reddit.com/r/Angular2/), [Vue](https://www.reddit.com/r/vuejs/)</br>
