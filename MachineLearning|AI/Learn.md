@@ -7,7 +7,7 @@ Notes:
 ## Machine Learning Basics
 [Machine Learning with Andrew Ng](https://www.coursera.org/learn/machine-learning) - Coursera Course: Full intro ML course aimed for beginners. Taught by the world renowned Stanford professor Andrew Ng. </br>
   * [Exercises from Andrew Ng's ML Class in Python](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) - Article </br>
-[//]: # (Hello)
+</a>
 [Introduction to Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - Video Series </br>
 [Machine Learning Recipes from Google](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=7) - Video Series</br>
 [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//) - Book (Free): This is a highly recomended ML book, but it can be a bit more math heavy than wanted.</br>
