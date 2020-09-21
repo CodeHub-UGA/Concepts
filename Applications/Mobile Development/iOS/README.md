@@ -8,7 +8,7 @@ Created by Apple and originally released as iPhone OS in 2007, iOS was designed 
 ## Developer Community
 
 Swift is the **9th** most loved programing language - [2020 Stack Overflow Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages)<br />
-iOS is the **8th **most loved platform to develop for - [2020 Stack Overflow Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-platforms) <br />
+iOS is the **8th** most loved platform to develop for - [2020 Stack Overflow Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-platforms) <br />
 Stack Overflow: [https://stackoverflow.com/questions/tagged/ios](https://stackoverflow.com/questions/tagged/ios)<br />
                 [https://stackoverflow.com/questions/tagged/xcode](https://stackoverflow.com/questions/tagged/xcode) <br />
 Reddit: [https://www.reddit.com/r/iOSProgramming/](https://www.reddit.com/r/iOSProgramming/)<br />
