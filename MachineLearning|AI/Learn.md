@@ -28,12 +28,12 @@ Notes:
 ### Probability / Statistics
 TBD </br></br>
 
-## YouTube Tutorial Channels:
+## YouTube Channels:
 [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - Subscribe. While they are mainly known for their web development bootcamp, their youtube channel contains a TON of great crash courses.</br>
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Fantastic math channel which also has a nice nueral network series.</br>
 [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg) - Fun AI/ML channel, works on random/interesting projects, and offers some good advice. </br>
-[Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured) - Short videos about really interesting AI research papers. </br></br>
-
+[Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured) - Short videos about really interesting AI research papers. </br>
+[CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) - Fun AI/ML videos. Might give you some good project videos<br></br>
 
 ## Machine Learning Technologies
 [Theano](https://appicon.co/http://deeplearning.net/software/theano/) - a python based deep learning toolkit developed by the Montreal Institute of Learning Algorithm</br>
