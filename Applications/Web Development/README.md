@@ -24,7 +24,14 @@ What's the difference? [React vs Angular vs Vue](https://www.codeinwp.com/blog/a
 Pros and Cons of each: [Which To Choose](https://medium.com/techmagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d) </br></br>
 
 ## Back-Ends
-_TBD_</br></br>
+_TBD_
+### Servers and Hoasting</br>
+
+### Databases</br>
+
+### Frameworks and Programming Languages</br></br>
+
+### APIs</br></br>
 
 
 ## Full-Stack
