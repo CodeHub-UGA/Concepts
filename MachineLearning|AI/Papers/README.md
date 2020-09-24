@@ -10,7 +10,7 @@ List of Papers by Topic:
   * Evolving Neural Networks Through Augmenting Topologies, by Stanley, Kenneth O., and Risto Miikkulainen (authorization pending)<br>
   External Link: http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Speech Recognition
-  * Deep Speech: Scaling up end-to-end speech recognition, by Hannun, Awni, et al. <br>
+  * [Deep Speech: Scaling up end-to-end speech recognition][DSSUETESR], by Hannun, Awni, et al. <br>
   External Link: https://arxiv.org/pdf/1412.5567.pdf
   
 [EENNT]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Efficient%20Evolution%20of%20Neural%20Network%20Topologies.pdf
