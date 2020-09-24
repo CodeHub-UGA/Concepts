@@ -17,7 +17,7 @@ List of Papers by Topic:
 Additional Resources:
 - [UTCS Neural Networks Research Group Publications](http://nn.cs.utexas.edu/pub-list.php)<br>
   External Link: http://nn.cs.utexas.edu/pub-list.php
-- <sup>1</sup>[MIT Press Journals: Evolutionary Computation Journals](https://www.mitpressjournals.org/loi/evco)<br>
+- <sup>1</sup>[MIT Press Journals: Evolutionary Computation](https://www.mitpressjournals.org/loi/evco)<br>
   External Link: https://www.mitpressjournals.org/loi/evco
    
 <sup>1</sup>Subscription and/or payment may be required to access this resource.
