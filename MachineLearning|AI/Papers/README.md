@@ -4,7 +4,7 @@ This folder contains Ph.D. dissertations and papers written by researchers in th
 
 List of Papers by Topic:
 
-- NeuroEvolution
+- Evolutionary Computation (Neuroevolution)
   * [Efficient Evolution of Neural Network Topologies][EENNT], by Stanley, Kenneth O., and Risto Miikkulainen<br>
   External Link: http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
   * Evolving Neural Networks Through Augmenting Topologies, by Stanley, Kenneth O., and Risto Miikkulainen (authorization pending)<br>
