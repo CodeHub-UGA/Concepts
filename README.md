@@ -1,8 +1,14 @@
 # Concepts
 
-This repository contains information and project ideas about a variety of CS topics:
-* Applications
-  * Mobile Development / iOS
-  * Web Development
-* Machine Learning / Artificial Intelligence
-* Cyber Security
+This repository contains information and project ideas about a variety of CS topics
+
+File Structure (README.md and related files excluded)
+<!-- Folders denoted by -, Folders denoted by *. -->
+- Applications
+  - Mobile Development
+    - iOS
+      * Learn.md
+  - Web Development
+- MachineLearning|AI
+  - Papers
+  * Learn.md
