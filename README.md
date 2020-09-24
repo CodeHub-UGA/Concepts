@@ -12,4 +12,5 @@ File Structure (README.md and related files excluded)
 - MachineLearning|AI
   - Papers
     * Efficient Evolution of Neural Network Topologies.pdf
+    * Deep Speech Scaling up end-to-end speech recognition.pdf
   * Learn.md
