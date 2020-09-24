@@ -5,5 +5,7 @@ This folder contains Ph.D. dissertations and papers written by researchers in th
 List of Papers by Topic:
 
 - NeuroEvolution
-  * Efficient Evolution of Neural Network Topologies, by Kenneth O. Stanley, Risto Miikkulainen
-  * Evolving Neural Networks Through Augmenting Topologies, by Kenneth O. Stanley, Risto Miikkulainen (Authorization pending)
+  * Efficient Evolution of Neural Network Topologies, by Stanley, Kenneth O., and Risto Miikkulainen
+  * Evolving Neural Networks Through Augmenting Topologies, by Stanley, Kenneth O., and Risto Miikkulainen (authorization pending) (http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+- Speech Recognition
+  * Deep Speech: Scaling up end-to-end speech recognition, by Hannun, Awni, et al. (authorization pending) (https://arxiv.org/pdf/1412.5567.pdf)
