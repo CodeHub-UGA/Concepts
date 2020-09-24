@@ -13,5 +13,14 @@ List of Papers by Topic:
   * [Deep Speech: Scaling up end-to-end speech recognition][DSSUETESR], by Hannun, Awni, et al. <br>
   External Link: https://arxiv.org/pdf/1412.5567.pdf
   
+  
+Additional Resources:
+- [UTCS Neural Networks Research Group Publications](http://nn.cs.utexas.edu/pub-list.php)<br>
+  External Link: http://nn.cs.utexas.edu/pub-list.php
+- <sup>1</sup>[MIT Press Journals: Evolutionary Computation Journals](https://www.mitpressjournals.org/loi/evco)<br>
+  External Link: https://www.mitpressjournals.org/loi/evco
+   
+<sup>1</sup>Subscription and/or payment may be required to access this resource.
+
 [EENNT]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Efficient%20Evolution%20of%20Neural%20Network%20Topologies.pdf
 [DSSUETESR]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Deep%20Speech%20Scaling%20up%20end-to-end%20speech%20recognition.pdf
