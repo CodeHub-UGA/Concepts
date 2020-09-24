@@ -1,5 +1,7 @@
 # Papers
 
+#### DO NOT DOWNLOAD PAPERS WITHIN THIS FOLDER. IF YOU WISH TO DOWNLOAD A PAPER FOR PERSONAL USE, DOWNLOAD FROM THE ORIGINAL SOURCE (LINKS TO ORIGINAL SOURCES DOWN BELOW)
+
 This folder contains Ph.D. dissertations and papers written by researchers in the AI/ML field. Express permission was granted by the author(s)/copyright holders of these papers to upload their works into this resource drive. <b><i>As such, any files within this folder is for CodeHub@UGA MEMBERS ONLY. You may not share, copy, modify, merge, publish, distribute, sublicense, and/or sell copies from this folder.</i></b>
 
 List of Papers by Topic:
