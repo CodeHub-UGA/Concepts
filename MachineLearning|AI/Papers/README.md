@@ -9,7 +9,7 @@ List of Papers by Topic:
 - Evolutionary Computation (Neuroevolution)
   * [Efficient Evolution of Neural Network Topologies][EENNT], by Stanley, Kenneth O., and Risto Miikkulainen<br>
   External Link: http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
-  * [Evolving Neural Networks Through Augmenting Topologies][ENNTAT], by Stanley, Kenneth O., and Risto Miikkulainen (authorization pending)<br>
+  * [Evolving Neural Networks Through Augmenting Topologies][ENNTAT], by Stanley, Kenneth O., and Risto Miikkulainen<br>
   External Link: http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Speech Recognition
   * [Deep Speech: Scaling up end-to-end speech recognition][DSSUETESR], by Hannun, Awni, et al. <br>
