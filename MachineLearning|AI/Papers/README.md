@@ -25,4 +25,5 @@ Additional Resources:
 <sup>1</sup>Subscription and/or payment may be required to access this resource.
 
 [EENNT]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Efficient%20Evolution%20of%20Neural%20Network%20Topologies.pdf
+[ENNTAT]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Evolving%20Neural%20Networks%20through%20Augmenting%20Topologies.pdf
 [DSSUETESR]: https://github.com/CodeHub-UGA/Concepts/blob/main/MachineLearning%7CAI/Papers/Deep%20Speech%20Scaling%20up%20end-to-end%20speech%20recognition.pdf
