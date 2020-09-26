@@ -1,6 +1,6 @@
 # Learn </br>
 
-**Prerequisites:** All you need is a computer running MacOS, Windows, Linux or even Chrome OS, a copy of [Android Studio](https://developer.android.com/studio) (free) and knowledge of either Java or Kotlin (LINK). Note: Android Studio comes with an appropriate version of Java; so no need to download it separately.</br></br>
+**Prerequisites:** All you need is a computer running MacOS, Windows, Linux or even Chrome OS, a copy of [Android Studio](https://developer.android.com/studio) (free) and knowledge of either [Java or Kotlin](https://github.com/CodeHub-UGA/Concepts/tree/main/Applications/Mobile%20Development/Android#prerequisites-). Note: Android Studio comes with an appropriate version of Java; so no need to download it separately.</br></br>
 
 ## Crash Course Reviews</br>
 **Java**</br>
