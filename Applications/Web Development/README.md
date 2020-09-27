@@ -1,7 +1,7 @@
 # Web development
 
 ## About
-Web development involves creating web sites for the Internet. This comes in many forms such as a single static page of plain text to complex web-applications, electronic businesses, and social networking services. HTML and CSS makeup the building blocks of all websites, and are the first time any web developer should learn. Afterwards the world _(wide web) _is your oyster. Frameworks and libraries help you write shorter, cleaner code to get your next website online faster.</br></br>
+Web development involves creating web sites for the Internet. This comes in many forms such as a single static page of plain text to complex web-applications, electronic businesses, and social networking services. HTML and CSS makeup the building blocks of all websites, and are the first time any web developer should learn. Afterwards the World(WideWeb) is your oyster. Frameworks and libraries help you write shorter, cleaner code to get your next website online faster.</br></br>
 
 
 ## Additional Resources
@@ -24,6 +24,8 @@ What's the difference? [React vs Angular vs Vue](https://www.codeinwp.com/blog/a
 Pros and Cons of each: [Which To Choose](https://medium.com/techmagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d) </br></br>
 
 ## Back-Ends</br>
+When it comes to the backend a good place to start is by looking into databases; look up the pros and cons of different database structures, when to use them and how this affects scalability. From there I would look into different backend programming languages (listed below), then frameworks for said langueges (also listed below). At that point, combine what you learned to build a simple RESTful API. The API is what connects the backend to the front end and as such, is a fundamental aspect of all web development.
+
 ### Servers and Hoasting</br>
  - Shared Hosting</br>
  - Cloud Hosting</br>
@@ -71,7 +73,7 @@ Pros and Cons of each: [Which To Choose](https://medium.com/techmagic/reactjs-vs
 
 ## Full-Stack
 If you're just starting, don't worry about what stack is best; choose one with technology you have the most experience with or interest in learning.
-With that said here are some of the [Best Stacks for Web Development](https://medium.com/@systango/best-stacks-for-web-development-991f91b7f99c) </br>
+With that said here are some of the [Best Stacks for Web Development](https://medium.com/@systango/best-stacks-for-web-development-991f91b7f99c) </br></br>
 MERN = MongoDB, Express, React, Node</br>
 MEAN = MongoDB, Express, Angular, Node</br>
 FERN = Google Firebase, Express, React, Node</br>
