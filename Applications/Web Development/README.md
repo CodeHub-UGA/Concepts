@@ -23,16 +23,51 @@ Stack Overflow: [React](https://stackoverflow.com/questions/tagged/reactjs), [An
 What's the difference? [React vs Angular vs Vue](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/) </br>
 Pros and Cons of each: [Which To Choose](https://medium.com/techmagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d) </br></br>
 
-## Back-Ends
-_TBD_
+## Back-Ends</br>
 ### Servers and Hoasting</br>
-
+ - Shared Hosting</br>
+ - Cloud Hosting</br>
+ - Dedicated Hosting</br>
+ - VPS Hosting (virtual private server) </br>
+ 
+ [What is Web Hoasting and How Does it Work?](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)</br>
+ [What's the Difference between Shared, Cloud, Dedicated, and VPS?](https://www.businessnewsdaily.com/5077-server-hosting.html)</br></br>
+ 
+ 
 ### Databases</br>
+ - **Relational**- SQL
+   - MySQL</br>
+   - Postgres </br>
+ - **Non-Relational** - NoSQL
+   - MongoDB</br>
+   - Amazon DynamoDB</br>
+   - Firestore</br>
+   
+[SQL vs. NoSQL](https://www.guru99.com/sql-vs-nosql.html)</br>
+[How to Choose the Right Database](https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741)</br></br>
 
-### Frameworks and Programming Languages</br></br>
 
-### APIs</br></br>
+### Programming Languages and Frameworks</br>
+ - **JavaScript**
+   - Express.js (Node JS)</br>
+   - Next.js (Node JS)</br>
+   - Meteor.js (Node JS)</br>
+ - **Python**
+   - Django</br>
+   - Flask</br>
+ - **PHP**
+   - Laravel</br>
+   - Zend</br>
+   - Symfony</br>
+ - **Java**
+   - Spring</br></br>
 
+### APIs
+[What is a RESTful API?](https://youtu.be/Q-BpqyOT3a8?t=24) (Video)</br>
+[Beginner's Guide - What is and API](https://www.signupto.com/news/what-is-an-api/)</br>
+[Build a REST API with Node and Express](https://stackabuse.com/building-a-rest-api-with-node-and-express/)</br>
+[Create NodeJS REST API](https://www.youtube.com/watch?v=F7NVpxxmmgM&ab_channel=LetsBuildThatApp) (Video)</br>
+[Create a REST API - Flask (Python)](https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-8a25122ab1f3)</br></br>
 
 ## Full-Stack
 If you're just starting, don't worry about what stack is best; choose one with technology you have the most experience with or interest in learning.
