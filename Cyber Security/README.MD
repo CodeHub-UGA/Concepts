@@ -15,4 +15,14 @@ There are 8 main types of cyber attacks:
 
 * *Malware* : Also known as malicious software, this refers to any kind of software that is designed to cause damage to single computer, server, or computer network. Malware attacks may render the computer or network inoperable, or grant the attacker root access so that they can control the system remotely. Common forms of malware are worms, viruses, and trojans. 
 
+* *Phishing* : This is a technique by which cyber criminals craft emails to fool a target into taking some kind of harmful action. The recipient of a phishing email is often tricked into dowloading malware, which then gives the attacker access to sensitive information. These emails are sent to a great number of targets, in hopes to extrapolate useful information from those who might not have knowledge that they are the victim of a cyber attack. 
+
+* *Ransomware* : This is a form of malware that encrypts a victim's files, after which the attacker dmands a ransom from the victim to restore access to their data. The amount of money requested by the attacker can range from a few hundred dollars to thousands, and payment might also be requested in the form of cryptocurrency. 
+
+* *Denial of Service* : This is an attack which attempts to stop some online service from working properly. For example, attackers might send a large amount of traffic to a specific website so that it overwhelms the system's ability to function, making it unavailable for use. 
+
+* *Man in the Middle* : This is a method through which attackers interpose themselves between the user and the web service they are trying to access. An example would be an attacker setting up a WiFi network designed to mimic that of a business. When the user logs onto this pseudo-network, the attacker then has access to all of the user's information stored on their device. 
+
+
+
 
