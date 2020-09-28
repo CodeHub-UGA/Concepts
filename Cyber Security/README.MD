@@ -31,23 +31,23 @@ There are 8 main types of cyber attacks:
 
 ## Elements of a Secure Information System 
 
-* *Network Security* : 
+* *Network Security* : The process of protecting the network from unwanted users, attacks, and intrusions
 
-* *Application Security* : 
+* *Application Security* : Applications require constant updates and testing to ensure these programs are secure from attacks
 
-* *Endpoint Security* : 
+* *Endpoint Security* : Remote access is a necessary part of business, but can also be a weak point for data. Endpoint security is the process of protecting remote access to a user's network. 
 
-* *Data Security* : 
+* *Data Security* : Inside of all networks and applications is data. Protecting a user's information is another level of security that is necessary for having a secure information system. 
 
-* *Identity Management* : 
+* *Identity Management* : A process of understanding the access every individual has in an organization i.e. Who can log into what?, Who has access to what data?, etc. 
 
-* *Database and Infrastructure Security* : 
+* *Database and Infrastructure Security* : Everything in a network involves databases and physical equipment, which need to be protected. 
 
-* *Cloud Security* : 
+* *Cloud Security* : Many files are stored in digital environments. Making sure that "the cloud" is secure presents a great deal of challenges. 
 
-* *Mobile Security* : 
+* *Mobile Security* : Cell phones and tablets must be secure, which is a challenge in and of itself. 
 
-* *Disaster Recover & Business Continuity Planning* : 
+* *Disaster Recover & Business Continuity Planning* : In the event that a cyber attack takes place, there needs to be a plan for what to do next. In addition, it is important that users of a network are educated in regards to practicing safe habits (double verification passwords, changing passwords, etc.) in an effort to be preventative. A lot of cyber attacks could be prevented if people were educated on how make personal efforts to keep their data safe on a network. 
 
 ## Why is Cyber Security important? 
 
