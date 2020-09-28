@@ -36,6 +36,8 @@ Included below are some websites through which you can practice Ethical Hacking!
 
 ## Interested in learning more about the field in general? Here are some great resources: 
 
+## Websites: 
+
 * [Cyber Aces](https://www.cyberaces.org) : Provides a structured, free program to teach you about cyber security and all the important concepts 
 
 * [CompTIA](https://www.comptia.org/resources/coronavirus-(covid-19)-and-tech-for-it-pros#section5) : Great resources ranging from Cloud Computing to AI 
@@ -45,6 +47,16 @@ Included below are some websites through which you can practice Ethical Hacking!
 * [Google Security Blog](https://security.googleblog.com) : A blog written by current Google employees on all things related to cyber security, and more specifically, what google is doing to be more secure in our day in age
 
 * [Infosec Resources](https://resources.infosecinstitute.com) : A blog that has mini-courses, e-books, and hands on tutorials for students interested in cyber security 
+
+## Books: 
+
+* *“Hacking the Hacker: Learn From the Experts Who Take Down Hacker” by Roger A Grimes *
+
+* *“The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data” by Kevin Mitnick * 
+
+* *“Social Engineering: The Science of Human Hacking” by Christopher Hadnagy* 
+
+
 
 
 
