@@ -8,6 +8,7 @@ Cyber security, which may also be referred to as information technology security
 
 A cyber attack is a malicious and deliberate attempt by an individual or organization to breach the information system of another individual or organization. Cyber attacks can be broken down into two broad types: 
 
-* *Malware* 
+* Attacks where the goal is to disable the target system, or knock it offline
+* Attacks where the goal is to get access to the target system's data
 
 
