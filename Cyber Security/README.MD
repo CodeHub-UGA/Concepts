@@ -29,6 +29,16 @@ There are 8 main types of cyber attacks:
 
 * *Zero-Day Exploits* : These involve vulnerabilities in software that have yet to be fixed. The name zero-day exploit comes from the idea that when a patch, or a softawre update that is meant to fix these vulerabilities, is released, each day reperesents fewer and fewer computers open to attack as users download the software update. Techniques to execute zero-day exploits are bought and sold on the dark web, and some are even used by government agencies for their own hacking purposes. 
 
+# Why is Cyber Security important? 
+
+* Today, now more so than ever, cyber security is important because government, military, corporate, financial, medical, and other organizations collect, process, and store an unprecedented amount of data on computers and other devices. Much of the data that is stored is sensitive information, whether it be intellectual property, financial data, personal information, or other types of data that if given unauthorized access could have negative consequences. 
+
+* There are more devices than there are people in our society today, which means that creating secure networks is becoming more of a challenge, as there are more entry points for a cyber attack to take place. 
+
+* As technology becomes more sophisticated, cyber crimes are growing in sophistication as well. It is important that we always stay one step ahead of these cyber criminals in order to prevent cyber crimes from taking place. 
+
+
+
 
 
 
