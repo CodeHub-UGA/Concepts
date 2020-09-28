@@ -56,6 +56,10 @@ Included below are some websites through which you can practice Ethical Hacking!
 
 * *“Social Engineering: The Science of Human Hacking” by Christopher Hadnagy* 
 
+## What can you do on your own? 
+
+There is no one language that is considered to be the most secure, but begin to educate yourself on what is meant by secure coding, and get in the habit of implementing such practices when you begin to work on projects of your own. You are responsible for the security of your own code. Start with defining your file permissions - who has access to what, defining what you want to be public and private, keeping track of your file paths, and commenting your code is a must! If you comment your code, it will help you and those who have authorized access to the code maintain it. 
+
 
 
 
