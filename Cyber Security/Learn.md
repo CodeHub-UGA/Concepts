@@ -50,9 +50,9 @@ Included below are some websites through which you can practice Ethical Hacking!
 
 ## Books: 
 
-* *“Hacking the Hacker: Learn From the Experts Who Take Down Hacker” by Roger A Grimes *
+* *“Hacking the Hacker: Learn From the Experts Who Take Down Hacker” by Roger A Grimes*
 
-* *“The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data” by Kevin Mitnick * 
+* *“The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data” by Kevin Mitnick* 
 
 * *“Social Engineering: The Science of Human Hacking” by Christopher Hadnagy* 
 
