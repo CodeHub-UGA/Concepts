@@ -23,6 +23,14 @@ There are 8 main types of cyber attacks:
 
 * *Man in the Middle* : This is a method through which attackers interpose themselves between the user and the web service they are trying to access. An example would be an attacker setting up a WiFi network designed to mimic that of a business. When the user logs onto this pseudo-network, the attacker then has access to all of the user's information stored on their device. 
 
+* *Cryptojacking* : This is a specialized attack that involves getting someone else's computer to generate cryptocurrency. The attacker will either install malware on the victim's computer to run the necessary calculations, or run the code in JavaScript which can be executed in the victim's browser. 
+
+* *SQL Injection* : This is a means by which an attacker can exploit a vulnerability to take control of a victim's database. Because many databases are designed to obey commands written in the Structured Query Language (SQL), an attacker can write SQL commands into a web form which can then be executed on a website's database if it is not programmed securely. 
+
+* *Zero-Day Exploits* : These involve vulnerabilities in software that have yet to be fixed. The name zero-day exploit comes from the idea that when a patch, or a softawre update that is meant to fix these vulerabilities, is released, each day reperesents fewer and fewer computers open to attack as users download the software update. Techniques to execute zero-day exploits are bought and sold on the dark web, and some are even used by government agencies for their own hacking purposes. 
+
+
+
 
 
 
