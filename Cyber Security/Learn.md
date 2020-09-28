@@ -67,7 +67,9 @@ Some personal project ideas:
 * Try to break a Ceasar Cipher 
 
 * Practice packet sniffing 
-  * A great tool for starting out with packet sniffing, if using the Linux/Unix system, is [Wireshark](https://www.wireshark.org) 
+  * What is packet sniffing? 
+   * Packet sniffing is the practice of gathering, collecting, and logging some or all packets that pass through a computer network, regardless of how the packet is   addressed. In this way, every packet, or a defined subset of packets, may be gathered for further analysis.
+     * A great tool for starting out with packet sniffing, if using the Linux/Unix system, is [Wireshark](https://www.wireshark.org) 
 
 
 
