@@ -16,7 +16,25 @@ Ethical hacking is fundamental to cyber security. It is an authorized practice o
 
 * *Components used in the system or network that may be used as access points* 
 
-## 
+## Why mention Ethical Hacking? 
+
+If you enjoy hacking, or are interested in hacking, it is important to always make sure that you are using your skills for GOOD, and never in a malicious way. Remember, you want to be a White Hat Hacker! 
+
+## Ways to Practice Ethical Hacking 
+
+Included below are some websites through which you can practice Ethical Hacking! 
+
+* [HackSplaining](https://www.hacksplaining.com)
+
+* [Hack This Site](https://www.hackthissite.org) 
+
+* [Hack the Box](https://www.hackthebox.eu)
+
+* [Try 2 Hack](http://www.try2hack.nl)
+
+* [Gruyere](http://google-gruyere.appspot.com) 
+
+
 
 
 
