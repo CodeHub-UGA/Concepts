@@ -16,8 +16,7 @@ Ethical hacking is fundamental to cyber security. It is an authorized practice o
 
 * *Components used in the system or network that may be used as access points* 
 
-## Why am I Mentioning Ethical Hacking? 
-
+## 
 
 
 
