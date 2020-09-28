@@ -11,4 +11,8 @@ A cyber attack is a malicious and deliberate attempt by an individual or organiz
 * Attacks where the goal is to disable the target system, or knock it offline
 * Attacks where the goal is to get access to the target system's data
 
+There are 8 main types of cyber attacks: 
+
+* *Malware* : Also known as malicious software, this refers to any kind of software that is designed to cause damage to single computer, server, or computer network. Malware attacks may render the computer or network inoperable, or grant the attacker root access so that they can control the system remotely. Common forms of malware are worms, viruses, and trojans. 
+
 
