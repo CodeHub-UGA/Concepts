@@ -3,13 +3,13 @@
 * Linear Regression is most commonly used when analyzing datasets to find the relationship between variables. 
 * [Simple Linear Regression](https://online.stat.psu.edu/stat462/node/91/) : Basic explanation of how simple linear regression works
 * [Multiple Linear Regression](https://online.stat.psu.edu/stat462/node/131/) : Linear regression with more than one predictor variable. 
-* [Matrix Linear Regression] (https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on Matrix principles. 
+* [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on matrix principles. 
 ## R and Python
 * R and Python are two commonly used languages for regression analysis and data visualization. 
 * **R**:
- * [Inputting Data] (jjd) : This explains how to input data in R
- * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do a linear regression in R.
- * [Data Visualization in R] (sdfsd) : This explains how to create commonly used graphs in R. 
+ * [Inputting Data](https://www.computerworld.com/article/2497164/business-intelligence-beginner-s-guide-to-r-get-your-data-into-r.html) : This explains how to input data in R
+ * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
+ * [Data Visualization in R] (sdfsd) : This explains how to create commonly used graphs/charts in R. 
 * **Python**: 
  * [Inputting Data] (jjd) : This explains how to input data in R
  * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do a linear regression in R.
