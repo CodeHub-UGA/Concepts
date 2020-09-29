@@ -5,6 +5,9 @@
 Don't know where to start? Check out FreeCodeCamp! It is a free website that can help you to build probjects. 
 * [FreeCodeCamp](https://www.freecodecamp.org) 
 
+Need a platform to code on? Eclipse is great for Java Programming! Here is the link to download Eclipse, a JAVA IDE which includes Git integration for Eclipse, Eclipse Java Development Tools, Maven Integration for Eclipse, Mylyn Task List, Code Recommenders Tools for Java Developers, and Eclipse XML Editors and Tools. 
+ * [Eclipse]("https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers")
+
 Some ideas for your Personal Project: 
 
 * Build a Website
