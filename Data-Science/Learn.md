@@ -23,8 +23,7 @@
 ### Linear Regression Analysis
  * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
  * [Linear Regression in Python](dd) : This link explains how to do a linear regression in Python.
-
-## Data Visualization 
+### Data Visualization 
  * [Data Visualization in R](https://www.statmethods.net/graphs/creating.html) : This explains how to create commonly used graphs/charts in R. 
  * [Data Visualization in Python](sdfsd) : This explains how to create commonly used graphs in R. 
 
