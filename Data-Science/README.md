@@ -8,7 +8,13 @@ As industries become increasingly reliant on data with the rise of technology, t
 
 ## Tools
 Data Scientists rely on both statistical analysis and computer science to gain insights from data. 
-Python (numpy, pandas, matplotlib) and R are very relevant.
+Most Popular Languages: 
+* Python (numpy, pandas, matplotlib) 
+* R (can also use RStudio)
+Other Helpful Tools:
+* Excel
+* Tableau (data visualization)
+* SAS
 
 ## Staying Informed / Interesting Articles:
 * [What is Data Science, and What Does a Data Scientist Do?](https://www.innoarchitech.com/blog/what-is-data-science-does-data-scientist-do) : A quick overview of the industry.
