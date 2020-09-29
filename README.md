@@ -14,6 +14,9 @@ File Structure (README.md and related files excluded)
 - Cyber Security 
   * About.md
   * Learn.md
+- Personal Projects
+  * About.md
+  * Learn.md
 - Data Science
 - MachineLearning|AI
   - Papers
