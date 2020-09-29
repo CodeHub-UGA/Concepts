@@ -13,7 +13,7 @@ Personal projects are a great way to boost your resume, especially if you make t
 
 * Choose a language that you know a lot about. Maybe you are well versed in Java, or Python is comfortable for you. Choose whatever language that is going to be most doable for the project you want to do. If you want to create an iPhone App, maybe you want to look into XCode. Something simple? Use Java or Python. Working with lists and storing data? Try C++ or C. There are so many languages and so many resources through which you can learn more about them!
 
-* Start with the basics. What is the basic structure of your program? Start with creating an outline. What do you want your program to accomplish? List the steps through which you can accomplis your end goal. It is always easier to begin implementing code when you have a visual representation of how your code will run. 
+* Start with the basics. What is the basic structure of your program? Start with creating an outline. What do you want your program to accomplish? List the steps through which you can accomplish your end goal. It is always easier to begin implementing code when you have a visual representation of how your code will run. 
 
 * Once you have a simple design, start coding! Determine the classes, methods, and variables you will need for your program to run efficiently. Start with your constructors for your classes. If you have private variables (always practice coding safely), implement your getters and setters. Start with the basics, then get into your harder methods. 
 
