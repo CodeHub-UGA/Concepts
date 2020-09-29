@@ -13,4 +13,5 @@ Python (numpy, pandas, matplotlib) and R are very relevant.
 ## Staying Informed / Interesting Articles:
 * [What is Data Science, and What Does a Data Scientist Do?](https://www.innoarchitech.com/blog/what-is-data-science-does-data-scientist-do) : A quick overview of the industry.
 * [Data Science, Predictive Analytics, and Big Data (Waller, 2013)](https://onlinelibrary.wiley.com/doi/full/10.1111/jbl.12010) : published academic paper about the implications of Data Science / Big Data in Supply Chain Design and Management 
-* [Data Science, The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) : Harvard Business Review article
+* [Data Science, The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) : Harvard Business Review; article about the role of data scientists
+* [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#67d353b36668) : Forbes; Read about the power of data and predictive analytics
