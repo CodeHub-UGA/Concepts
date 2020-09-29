@@ -2,7 +2,7 @@
 
 ## Statistical Analysis
 ### Fundamentals
-(note that a lot of "calculations" can be done with R / Python
+(note that a lot of "calculations" can be done with R / Python)
 * [The Basics](https://magoosh.com/statistics/statistics-basics-heres-what-you-need-to-know/) : The most basic elements of statistical analysis
 * [The Basics (detailed)](https://www.khanacademy.org/math/statistics-probability) : If you have had little previous experience with statistics, this Khan Academy course will be super helpful for getting a basic understanding
 * [Hypothesis Testing](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/) : How to test whether a hypothesis can be supported
