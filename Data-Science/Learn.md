@@ -25,6 +25,6 @@
     * STAT 4365 (Modern Statistical Programming)
   * **Computer Science**: 
     * CSCI 3360 (Data Science 1)
-  * **Programs**
+* **Programs**
     * Data Science Major ([About](https://www.stat.uga.edu/data-science-major))
     * Applied Data Science Certificate ([About](https://csci.franklin.uga.edu/certificate-applied-data-science))
