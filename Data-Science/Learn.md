@@ -15,12 +15,14 @@
 * [Simple Linear Regression](https://online.stat.psu.edu/stat462/node/91/) : Basic explanation of how simple linear regression works
 * [Multiple Linear Regression](https://online.stat.psu.edu/stat462/node/131/) : Linear regression with more than one predictor variable. 
 * [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on matrix principles. 
-### Linear Regression Analysis
- * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
- * [Linear Regression in Python](dd) : This link explains how to do a linear regression in Python.
+
+## Using Software
 ### Inputting Data
  * [Inputting Data in R](https://www.computerworld.com/article/2497164/business-intelligence-beginner-s-guide-to-r-get-your-data-into-r.html) : This explains how to input data in R
   * [Inputting Data in Python](jjd) : This explains how to input data in Python
+### Linear Regression Analysis
+ * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
+ * [Linear Regression in Python](dd) : This link explains how to do a linear regression in Python.
 
 ## Data Visualization 
  * [Data Visualization in R](https://www.statmethods.net/graphs/creating.html) : This explains how to create commonly used graphs/charts in R. 
