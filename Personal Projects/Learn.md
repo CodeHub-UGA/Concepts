@@ -28,6 +28,7 @@ XCode is an Integrated Development Environment, which means it pulls all the too
 * CodewithChris on Youtube has some great tutorials for how to get started on XCode, and they are super helpful! 
 
   * He has a 10 part series on how to create a beginner application, and I reccommend watching it, especially if you want to start with something simple and have a process you can follow! 
+  * [CodewithChris](https://www.youtube.com/watch?v=jniJeamcIUU) : a link to the first video (Lesson 1) of his 10 part series 
 
 
 
