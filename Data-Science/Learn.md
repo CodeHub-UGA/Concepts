@@ -19,9 +19,13 @@
 * [KD Nuggets](https://www.kdnuggets.com/datasets/index.html) : Contains links to a lot of publicly available datasets.
 ## Project Ideas:
 * Pick a dataset and analyze it!
-## Classes at UGA:
-* **Statistics**: 
+## At UGA:
+* **Classes:**
+ * **Statistics**: 
   * STAT 4230 (Applied Regression Analysis)
   * STAT 4365 (Modern Statistical Programming)
-* **Computer Science**: 
+ * **Computer Science**: 
   * CSCI 3360 (Data Science 1)
+* **Programs**
+ * Data Science Major ([About](https://www.stat.uga.edu/data-science-major))
+ * Applied Data Science Certificate ([About](https://csci.franklin.uga.edu/certificate-applied-data-science)]
