@@ -6,4 +6,8 @@
 ## Project Ideas:
 * Pick a dataset and analyze it!
 ## Classes at UGA:
-* Statistics:
+* **Statistics**: 
+  * STAT 4230 (Applied Regression Analysis)
+  * STAT 4365 (Modern Statistical Programming)
+* **Computer Science**: 
+  * CSCI 3360 (Data Science 1)
