@@ -6,13 +6,13 @@
 * [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on matrix principles. 
 ## Inputting Data
  * [Inputting Data in R](https://www.computerworld.com/article/2497164/business-intelligence-beginner-s-guide-to-r-get-your-data-into-r.html) : This explains how to input data in R
-  * [Inputting Data in Python] (jjd) : This explains how to input data in Python
+  * [Inputting Data in Python](jjd) : This explains how to input data in Python
 ## Linear Regression Analysis
  * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
  * [Linear Regression in Python](dd) : This link explains how to do a linear regression in Python.
 ## Data Visualization 
  * [Data Visualization in R](https://www.statmethods.net/graphs/creating.html) : This explains how to create commonly used graphs/charts in R. 
- * [Data Visualization in Python] (sdfsd) : This explains how to create commonly used graphs in R. 
+ * [Data Visualization in Python](sdfsd) : This explains how to create commonly used graphs in R. 
  ## Datasets:
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) : Here you can find all kinds of publicly available datasets for a variety of topics, from the climate and economics to biology and eductaion.
 * [KD Nuggets](https://www.kdnuggets.com/datasets/index.html) : Contains links to a lot of publicly available datasets.
