@@ -28,4 +28,4 @@
     * CSCI 3360 (Data Science 1)
   * **Programs**
     * Data Science Major ([About](https://www.stat.uga.edu/data-science-major))
-    * Applied Data Science Certificate ([About](https://csci.franklin.uga.edu/certificate-applied-data-science)]
+    * Applied Data Science Certificate ([About](https://csci.franklin.uga.edu/certificate-applied-data-science))
