@@ -6,7 +6,7 @@ Don't know where to start? Check out FreeCodeCamp! It is a free website that can
 * [FreeCodeCamp](https://www.freecodecamp.org) 
 
 Need a platform to code on? Eclipse is great for Java Programming! Here is the link to download Eclipse, a JAVA IDE which includes Git integration for Eclipse, Eclipse Java Development Tools, Maven Integration for Eclipse, Mylyn Task List, Code Recommenders Tools for Java Developers, and Eclipse XML Editors and Tools. 
- * [Eclipse]("https://www.eclipse.org/downloads/packages/")
+ * https://www.eclipse.org/downloads/packages/
 
 Some ideas for your Personal Project: 
 
