@@ -18,6 +18,8 @@ File Structure (README.md and related files excluded)
   * About.md
   * Learn.md
 - Data Science
+  * About.md
+  * Learn.md
 - MachineLearning|AI
   - Papers
     * Efficient Evolution of Neural Network Topologies.pdf
