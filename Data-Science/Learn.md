@@ -22,6 +22,7 @@ Linear Regression is most commonly used when analyzing datasets to find the rela
   * [Inputting Data in Python](jjd) : This explains how to input data in Python
 ### Linear Regression Analysis
  * [Linear Regression in R](https://www.datacamp.com/community/tutorials/linear-regression-R) : This link explains how to do linear regression in R.
+ * [Interpretation of Regression Output](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) : Goes over how to interpret/explain regression summary output in R. 
  * [Linear Regression in Python](dd) : This link explains how to do a linear regression in Python.
 ### Data Visualization 
  * [Data Visualization in R](https://www.statmethods.net/graphs/creating.html) : This explains how to create commonly used graphs/charts in R. 
