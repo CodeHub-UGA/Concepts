@@ -12,11 +12,11 @@ These three terms are often thrown around together, and sometimes it may be hard
   <img src="https://1.cms.s81c.com/sites/default/files/2020-06-03/AI_ML_DL.png">
 </p>
 
-[ - Learn More](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) </br></br>
-
-
+<p align="right">
+  <a href="https://www.ibm.com/cloud/learn/what-is-artificial-intelligence"> - Learn More </a>
+</p>
+<br>
 
 ## Additional Resources
 Double Dawgs Program: [UGA Computer Science BS/Artificial Intelligence MS](http://doubledawgs.uga.edu/ProgramDetails/10080) <br />
 UGA Clubs: [Deep Learning @ UGA](https://delug.github.io/)<br />
-
