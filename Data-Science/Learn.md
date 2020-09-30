@@ -14,7 +14,7 @@
 Linear Regression is most commonly used when analyzing datasets to find the relationship between variables. 
 * [Simple Linear Regression](https://online.stat.psu.edu/stat462/node/91/) : Basic explanation of how simple linear regression works
 * [Multiple Linear Regression](https://online.stat.psu.edu/stat462/node/131/) : Linear regression with more than one predictor variable. 
-* [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on matrix principles. 
+* [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : If you have a background in matrices or want to learn more in-depth, this is a more rigorous definitions of linear regression based on matrix principles. 
 
 ## Using Software
 ### Inputting Data
