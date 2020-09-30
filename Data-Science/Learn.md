@@ -11,7 +11,7 @@
 * [An Overview of Statistical Tests](https://www.scribbr.com/statistics/statistical-tests/) : when a t test, chi-square test, etc. is appropriate
 * [Confidence Intervals](https://www.mathsisfun.com/data/confidence-interval.html) : the basics of confidence intervals
 ### Linear Regression
-* Linear Regression is most commonly used when analyzing datasets to find the relationship between variables. 
+Linear Regression is most commonly used when analyzing datasets to find the relationship between variables. 
 * [Simple Linear Regression](https://online.stat.psu.edu/stat462/node/91/) : Basic explanation of how simple linear regression works
 * [Multiple Linear Regression](https://online.stat.psu.edu/stat462/node/131/) : Linear regression with more than one predictor variable. 
 * [Matrix Linear Regression](https://online.stat.psu.edu/stat462/node/132/) : More rigorous definitions of linear regression based on matrix principles. 
