@@ -27,14 +27,14 @@ Linear Regression is most commonly used when analyzing datasets to find the rela
  * [Data Visualization in R](https://www.statmethods.net/graphs/creating.html) : This explains how to create commonly used graphs/charts in R. 
  * [Data Visualization in Python](sdfsd) : This explains how to create commonly used graphs in R. 
 
-## Dataset Sources:
+## Dataset Sources
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) : Here you can find all kinds of publicly available datasets for a variety of topics, from the climate and economics to biology and eductaion.
 * [KD Nuggets](https://www.kdnuggets.com/datasets/index.html) : Contains links to a lot of publicly available datasets.
 
-## Project Ideas:
+## Project Ideas
 * Pick a dataset and analyze it!
 
-## At UGA:
+## At UGA
 * **Classes:**
   * **Statistics**: 
     * STAT 2010 (Statistical Methods for Data Scientists)
@@ -43,6 +43,6 @@ Linear Regression is most commonly used when analyzing datasets to find the rela
   * **Computer Science**: 
     * CSCI 3360 (Data Science 1)
     * CSCI 4360 (Data Science 2)
-* **Programs**
+* **Programs:**
     * Data Science Major ([About](https://www.stat.uga.edu/data-science-major))
     * Applied Data Science Certificate ([About](https://csci.franklin.uga.edu/certificate-applied-data-science))
