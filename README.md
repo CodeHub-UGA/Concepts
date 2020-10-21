@@ -3,7 +3,7 @@
 This repository contains information and project ideas about a variety of CS topics
 
 File Structure (README.md and related files excluded)
-<!-- Folders denoted by -, Folders denoted by *. -->
+<!-- Folders denoted by -, Files denoted by *. -->
 - Applications
   - Mobile Development
     - iOS
@@ -11,6 +11,7 @@ File Structure (README.md and related files excluded)
     - Android
       * Learn.md
   - Web Development
+    * React
 - Cyber Security 
   * About.md
   * Learn.md
