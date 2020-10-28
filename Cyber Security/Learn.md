@@ -24,6 +24,8 @@ If you enjoy hacking, or are interested in hacking, it is important to always ma
 
 Included below are some websites through which you can practice Ethical Hacking! 
 
+* [Capture The Flag](https://ctf.hacker101.com)
+
 * [HackSplaining](https://www.hacksplaining.com)
 
 * [Hack This Site](https://www.hackthissite.org) 
