@@ -16,6 +16,7 @@ Created and maintained by Facebook, React is an ever growing javascript library 
 [ReactJS Tutorial](https://reactjs.org/tutorial/tutorial.html) - Article </br>
 [React JS Crash Course](https://youtu.be/sBws8MSXN7A) - 1hr 38min</br>
 [Learn React JS - Full Course for Beginners](https://youtu.be/DLX62G4lc44) - 5hr 5min</br>
+[Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://youtu.be/4UZrsTqkcW4) - 10hr 7min</br>
 [React Fundamentals](https://youtu.be/6Ied4aZxUzc) - 1hr 3min</br>
 [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ&ab_channel=TraversyMedia) - 50min</br>
 [Full Stack React & Firebase Tutorial - Build a social media app](https://youtu.be/m_u6P5k0vP0) - 12hr</br></br>
