@@ -35,13 +35,16 @@ TBD </br></br>
 [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured) - Short videos about really interesting AI research papers. </br>
 [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) - Fun AI/ML videos. Might give you some good project ideas. Watch out for explicit language.<br>
 
+## Other Resources
+[LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects (2020)](https://www.youtube.com/watch?v=WQeoO7MI0Bs) - OpenCV Basics for absolute beginners in computer vision.
+
 ## Machine Learning Technologies
 [Theano](https://appicon.co/http://deeplearning.net/software/theano/) - a python based deep learning toolkit developed by the Montreal Institute of Learning Algorithm</br>
 [PyTorch](https://pytorch.org/) - PyTorch is a Python-based library that has been built to provide versatility as a deep learning framework.</br>
 [Keras](https://keras.io/) - can be used to wrap Theano or TensorFlow for ease of use.</br>
 [Caffe](http://caffe.berkeleyvision.org/) - an easy to use, beginner friendly deep learning framework. </br>
 [TensorFlow](https://www.tensorflow.org/) - a python deep learning framework developed by Google Brain and in use at Google Brain and Deepmind.</br></br>
-
+[OpenCV](https://opencv.org/) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 
 ## How-Tos and Articles
 TBD
