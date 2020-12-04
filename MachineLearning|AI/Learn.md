@@ -43,8 +43,8 @@ TBD </br></br>
 [PyTorch](https://pytorch.org/) - PyTorch is a Python-based library that has been built to provide versatility as a deep learning framework.</br>
 [Keras](https://keras.io/) - can be used to wrap Theano or TensorFlow for ease of use.</br>
 [Caffe](http://caffe.berkeleyvision.org/) - an easy to use, beginner friendly deep learning framework. </br>
-[TensorFlow](https://www.tensorflow.org/) - a python deep learning framework developed by Google Brain and in use at Google Brain and Deepmind.</br></br>
-[OpenCV](https://opencv.org/) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+[TensorFlow](https://www.tensorflow.org/) - a python deep learning framework developed by Google Brain and in use at Google Brain and Deepmind.</br>
+[OpenCV](https://opencv.org/) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.</br>
 
 ## How-Tos and Articles
 TBD
