@@ -1,0 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Concepts Commit Notification
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: Actions Status Discord
+      uses: sarisia/actions-status-discord@v1.7.1
+      if: always()
+      with:
+        webhook: https://discord.com/api/webhooks/784461903686271037/qcdqBhymkcZNF7FLa5bMDGHcwJ7NRYJxA82H-lXTzRIl3lb7lBjciAx7MF5oPYLtHYCA
