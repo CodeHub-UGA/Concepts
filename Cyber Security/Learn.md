@@ -36,13 +36,15 @@ Included below are some websites through which you can practice Ethical Hacking!
 
 * [Gruyere](http://google-gruyere.appspot.com) 
 
-* Try Hack Me : https://tryhackme.com
+* [Try Hack Me](https://tryhackme.com)
 
-* Null - Byte : https://null-byte.wonderhowto.com
+* [Null Byte](https://null-byte.wonderhowto.com)
 
-* Penetration Testing : https://www.kali.org
+* [Kali Linux](https://www.kali.org)
 
-* OverTheWire : https://overthewire.org/wargames/bandit/bandit0.html
+* [OverTheWire](https://overthewire.org/wargames/bandit/bandit0.html)
+
+* [Malware Unicorn Workshops](https://malwareunicorn.org/#/workshops)
 
 ## Interested in learning more about the field in general? Here are some great resources: 
 
