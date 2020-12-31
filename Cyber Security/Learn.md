@@ -60,6 +60,8 @@ Included below are some websites through which you can practice Ethical Hacking!
 
 * [Infosec Resources](https://resources.infosecinstitute.com) : A blog that has mini-courses, e-books, and hands on tutorials for students interested in cyber security 
 
+* [Mitre ATT&CK](https://attack.mitre.org/) : MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations of cyber security threats.
+
 ## Books: 
 
 * *“Hacking the Hacker: Learn From the Experts Who Take Down Hacker” by Roger A Grimes*
