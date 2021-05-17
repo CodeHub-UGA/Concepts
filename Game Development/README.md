@@ -69,6 +69,10 @@ Note: I don't use game engines personally, so this list may be a little lacklust
     - https://boscaceoil.net/
     - https://lmms.io/
 
+- World Generation
+    - https://www.youtube.com/watch?v=pVIsLgAqXVI
+    - https://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+
 - Physics
     - http://wscg.zcu.cz/wscg2004/Papers_2004_Full/B83.pdf
     - https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
