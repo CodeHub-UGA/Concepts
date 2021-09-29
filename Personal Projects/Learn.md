@@ -14,9 +14,11 @@ Some ideas for your Personal Project:
 
 * Re-design an existing website
 
-* Design a basic game 
+* Design a basic game (Ex: Minesweeper)
 
 * Create a simple app (XCode, Java GUI, etc.) 
+
+* Webscraping using Python
 
 * Random Number Generator 
 
